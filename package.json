@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "module-federation-ssr",
+  "scripts": {
+    "dev": "lerna run --parallel dev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^7.0.1"
+  }
+}
